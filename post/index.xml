@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Zehida</title>
+    <link>https://mademoixcel.github.io/Zehida_Portfolio/post/</link>
+    <description>Recent content in Projects on Zehida</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://mademoixcel.github.io/Zehida_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 3: Transforming HR Analytics with PowerBI</title>
+      <link>https://mademoixcel.github.io/Zehida_Portfolio/post/project3/</link>
+      <pubDate>Mon, 10 Apr 2023 11:14:48 -0400</pubDate>
+      
+      <guid>https://mademoixcel.github.io/Zehida_Portfolio/post/project3/</guid>
+      <description>In this project, I developed an HR analytics dashboard using Power BI. The dashboard provides an overview of various HR metrics such as headcount, attrition rate, diversity, and recruitment sources. It also allows users to analyze trends and patterns in these metrics over time and across different departments or locations. The dashboard features interactive visualizations and filters, making it easy to explore the data and gain insights. Overall, this HR analytics dashboard can help organizations make data-driven decisions and improve their HR operations.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Exploring Netflix Movie Data with SQL</title>
+      <link>https://mademoixcel.github.io/Zehida_Portfolio/post/project4/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mademoixcel.github.io/Zehida_Portfolio/post/project4/</guid>
+      <description>This project used SQL to analyze a database of Netflix movies. The data was used to uncover trends and patterns in the types of movies offered, the genres most popular with subscribers, percentage of movies and shows Netflix has produced, and more. The results of the analysis were used to provide insights into how Netflix can better optimize its movie selection and improve subscriber satisfaction. Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Data Cleaning With Microsoft Excel</title>
+      <link>https://mademoixcel.github.io/Zehida_Portfolio/post/project1/</link>
+      <pubDate>Sat, 18 Feb 2023 11:25:05 -0400</pubDate>
+      
+      <guid>https://mademoixcel.github.io/Zehida_Portfolio/post/project1/</guid>
+      <description>Auto-fitted column rows and heights
+Checked for blank rows and columns
+Checked for correct data type and changed the incorrect ones to their correct data types
+Performed simple calculations using Excel formulas on the numeric columns and got incorrect answers
+Reformatted the numeric columns using different steps to prepare the dataset for working on.
+Link to Medium article</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Using Microsoft Excel For Effective Payroll Management </title>
+      <link>https://mademoixcel.github.io/Zehida_Portfolio/post/project2/</link>
+      <pubDate>Fri, 17 Feb 2023 11:15:58 -0400</pubDate>
+      
+      <guid>https://mademoixcel.github.io/Zehida_Portfolio/post/project2/</guid>
+      <description>This payroll I did with Microsoft Excel is a spreadsheet designed to track employee hours and wages. It included columns for employee name, hours worked, hourly rate, overtime hours, overtime rate, and total wages due. It also included various formulas such as VLOOKUP to create a drop down list to view each customer&amp;rsquo;s details, SUMIF, COUNTIF, IF, AVERAGE, MAXIMUM, SUM, MINIMUM A dashboard was built at the end to visualize the payroll summary.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mademoixcel.github.io/Zehida_Portfolio/post/abc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mademoixcel.github.io/Zehida_Portfolio/post/abc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mademoixcel.github.io/Zehida_Portfolio/post/chapter-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mademoixcel.github.io/Zehida_Portfolio/post/chapter-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mademoixcel.github.io/Zehida_Portfolio/post/chapter-10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mademoixcel.github.io/Zehida_Portfolio/post/chapter-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mademoixcel.github.io/Zehida_Portfolio/post/chapter-100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mademoixcel.github.io/Zehida_Portfolio/post/chapter-100/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mademoixcel.github.io/Zehida_Portfolio/post/chapter-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mademoixcel.github.io/Zehida_Portfolio/post/chapter-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

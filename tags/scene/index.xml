@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Zehida</title>
+    <link>https://mademoixcel.github.io/Zehida_Portfolio/tags/scene/</link>
+    <description>Recent content in scene on Zehida</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Apr 2023 11:14:48 -0400</lastBuildDate><atom:link href="https://mademoixcel.github.io/Zehida_Portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 3: Transforming HR Analytics with PowerBI</title>
+      <link>https://mademoixcel.github.io/Zehida_Portfolio/post/project3/</link>
+      <pubDate>Mon, 10 Apr 2023 11:14:48 -0400</pubDate>
+      
+      <guid>https://mademoixcel.github.io/Zehida_Portfolio/post/project3/</guid>
+      <description>In this project, I developed an HR analytics dashboard using Power BI. The dashboard provides an overview of various HR metrics such as headcount, attrition rate, diversity, and recruitment sources. It also allows users to analyze trends and patterns in these metrics over time and across different departments or locations. The dashboard features interactive visualizations and filters, making it easy to explore the data and gain insights. Overall, this HR analytics dashboard can help organizations make data-driven decisions and improve their HR operations.</description>
+    </item>
+    
+  </channel>
+</rss>
